@@ -1,0 +1,19 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Test for trying git stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenerbe/testproject.git"
+  },
+  "author": "Ken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenerbe/testproject/issues"
+  },
+  "homepage": "https://github.com/kenerbe/testproject#readme"
+}
